@@ -15,13 +15,11 @@
 ### Data Projects
 | Notebook | Brief Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[predicting-comments-on-reddit](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/painters-identification/notebooks/capstone-models-final-model-building.ipynb) | PostgreSQL project in Jupyter notebook for analyzing international debt statistics using data from world bank.
-+ What is the average debt across countries?
-+ What is the maximum debt indicator?
-+ Which country has the highest debt in which debt indicator
-+ etc.|
-|[tennis-matches-prediction](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/bitcoin/notebooks/deep-learning-LSTM-bitcoins.ipynb) | The goal of the project is to predict the probability that the higher-ranked player will win a tennis match. I will call that a `win`(as opposed to an upset).|
-|[churn-analysis](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/keras-tf-tutorial/notebooks/neural-nets-digits-mnist.ipynb) | This project was done in collaboration with [Corey Girard](https://github.com/coreygirard/). A mobile device company is having a major problem with customer retention. Customers switching from one company to another is called churn. Our goal in this analysis is to understand the problem, identify behaviors which are strongly correlated with churn and to devise a solution.|
+|[Predicting Comments on Reddit](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/painters-identification/notebooks/capstone-models-final-model-building.ipynb) | PostgreSQL project in Jupyter notebook for analyzing international debt statistics using data from the World Bank.  
+  - What is the average debt across countries?
+  - What is the maximum debt indicator?
+  - Which country has the highest debt in which debt indicator?
+  - etc.|
 
 ### SQL Projects
 | Notebook | Brief Description |
