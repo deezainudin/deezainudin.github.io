@@ -6,9 +6,10 @@
 
 👀 I’m interested in analysis and prediction related to product analytics and user experiences. My work typically focuses on predictive analytics, reporting & insights. The tools I primarily use are Python, SQL, and PowerBI.
 
-🌱 .
+### Contact Me
 
-📫 .
+📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/irdinazainudin09/).
+
 
 ### Notebooks and descriptions
 | Notebook | Brief Description |
