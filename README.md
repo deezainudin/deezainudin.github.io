@@ -15,7 +15,7 @@
 ### Data Projects
 | Notebook | Brief Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Predicting Comments on Reddit](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/painters-identification/notebooks/capstone-models-final-model-building.ipynb) | PostgreSQL project in Jupyter notebook for analyzing international debt statistics using data from the World Bank.  
+|[Stock Market Analysis](https://github.com/deezainudin/stock-market-analysis) | PostgreSQL project in Jupyter notebook for analyzing international debt statistics using data from the World Bank.  
   - What is the average debt across countries?
   - What is the maximum debt indicator?
   - Which country has the highest debt in which debt indicator?
