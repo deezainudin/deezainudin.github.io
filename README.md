@@ -15,11 +15,8 @@
 ### Data Projects
 | Notebook | Brief Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Stock Market Analysis](https://github.com/deezainudin/stock-market-analysis) | PostgreSQL project in Jupyter notebook for analyzing international debt statistics using data from the World Bank.  
-  - What is the average debt across countries?
-  - What is the maximum debt indicator?
-  - Which country has the highest debt in which debt indicator?
-  - etc.|
+|[Stock Market Analysis](https://github.com/deezainudin/stock-market-analysis) | In this project I did a stock market analysis for 5 companies which are AAPL, AMZN, META, GOOG and NFLX. The analysis is done using python.  |
+
 
 ### SQL Projects
 | Notebook | Brief Description |
