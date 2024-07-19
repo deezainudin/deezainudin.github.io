@@ -15,7 +15,7 @@
 ### Data Projects
 | Notebook | Brief Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Stock Market Analysis](https://github.com/deezainudin/stock-market-analysis) | In this project I did a stock market analysis for 5 companies which are AAPL, AMZN, META, GOOG and NFLX. The analysis is done using python.  |
+|[Stock Market Analysis](https://github.com/deezainudin/stock-market-analysis/tree/master) | In this project I did a stock market analysis for 5 companies which are AAPL, AMZN, META, GOOG and NFLX. The analysis is done using python.  |
 
 
 ### SQL Projects
